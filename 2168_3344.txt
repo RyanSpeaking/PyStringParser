@@ -1,0 +1,6 @@
+01-01 12:29:22.34568 2168  3344 Socket connected
+01-01 12:30:22.34568 2168  3344 System.err [CDS]socket[35444] close
+01-01 12:30:22.34568 2168  3344 System.err SocketTimeoutException
+01-01 12:29:22.34568 2168  3344 Socket connected
+01-01 12:30:22.34568 2168  3344 System.err [CDS]socket[35444] close
+01-01 12:30:22.34568 2168  3344 System.err SocketTimeoutException
